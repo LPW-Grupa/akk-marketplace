@@ -1,7 +1,8 @@
-{
-  "name": "Marketplace AKK — LPW",
+﻿{
+  "name": "akk-marketplace",
+  "displayName": "Marketplace AKK — LPW",
   "owner": {
-    "name": "Zespół LPW",
+    "name": "Zespol LPW",
     "email": "t.lichota@lpw-grupa.pl"
   },
   "plugins": [

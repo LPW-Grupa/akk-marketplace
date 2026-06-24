@@ -1,0 +1,13 @@
+{
+  "name": "Marketplace AKK — LPW",
+  "owner": {
+    "name": "Zespół LPW",
+    "email": "t.lichota@lpw-grupa.pl"
+  },
+  "plugins": [
+    {
+      "name": "akk-generator",
+      "source": "./akk-generator"
+    }
+  ]
+}

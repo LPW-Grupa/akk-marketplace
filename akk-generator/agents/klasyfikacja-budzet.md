@@ -1,5 +1,5 @@
 ---
-name: budget-classifier
+name: klasyfikacja-budzet
 description: Subagent Etapu 1a procesu AKK. Klasyfikuje pozycje budżetu projektu UE — środki trwałe wg KŚT, wartości niematerialne i prawne, pozostałe koszty — ustala status kwalifikowalności i traktowanie VAT zgodnie z naborem, oraz buduje harmonogram rzeczowo-finansowy w zakładce "Budżet". Wywoływany przez akk-konfigurator po zatwierdzeniu PK-0a.
 model: sonnet
 effort: high

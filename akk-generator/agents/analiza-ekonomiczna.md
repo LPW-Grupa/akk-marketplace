@@ -1,5 +1,5 @@
 ---
-name: economic-analysis-agent
+name: analiza-ekonomiczna
 description: Subagent Etapu 2 procesu AKK. Przeprowadza analizę ekonomiczną — korekty fiskalne, ceny rozrachunkowe (shadow prices), kwantyfikację korzyści społeczno-ekonomicznych oraz wskaźniki ERR, ENPV i B/C w zakładce "Analiza ekonomiczna". Wywoływany przez akk-konfigurator po zatwierdzeniu PK-1d. STATUS — DO ZBUDOWANIA.
 model: sonnet
 effort: high

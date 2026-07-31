@@ -1,5 +1,5 @@
 ---
-name: financial-indicators-agent
+name: wskazniki-finansowe
 description: Subagent Etapu 1d procesu AKK. Wylicza nakłady inwestycyjne, lukę finansową oraz wskaźniki efektywności finansowej (FRR/C, FNPV/C, FRR/K, FNPV/K) i maksymalną kwotę dotacji UE w zakładce "Wskaźniki finansowe". Wywoływany przez akk-konfigurator po zatwierdzeniu PK-1c. STATUS — DO ZBUDOWANIA.
 model: sonnet
 effort: high

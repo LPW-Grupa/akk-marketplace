@@ -1,5 +1,5 @@
 ---
-name: sustainability-agent
+name: trwalosc
 description: Subagent Etapu 4 procesu AKK. Weryfikuje trwałość finansową projektu — przepływy pieniężne netto rok-po-roku, skumulowane CF ≥ 0 w każdym roku oraz pokrycie zobowiązań ze źródeł finansowania, w zakładce "Trwałość finansowa". Wywoływany przez akk-konfigurator po zatwierdzeniu PK-3. STATUS — DO ZBUDOWANIA.
 model: sonnet
 effort: high

@@ -1,5 +1,5 @@
 ---
-name: sensitivity-risk-agent
+name: wrazliwosc-i-ryzyko
 description: Subagent Etapu 3 procesu AKK. Wykonuje analizę wrażliwości i ryzyka — ranking zmiennych krytycznych, switching values dla ENPV/FNPV, analizę 3 scenariuszy oraz macierz ryzyk w zakładce "Wrażliwość i ryzyko". Wywoływany przez akk-konfigurator po zatwierdzeniu PK-2. STATUS — DO ZBUDOWANIA.
 model: sonnet
 effort: high

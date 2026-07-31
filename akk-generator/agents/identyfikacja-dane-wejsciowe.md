@@ -1,5 +1,5 @@
 ---
-name: input-assumptions-analyst
+name: identyfikacja-dane-wejsciowe
 description: Analizuje dokumentację aplikacyjną wskazanego naboru funduszy UE (link lub pliki PDF/DOCX), identyfikuje wszystkie wymagane dane wejściowe i założenia niezbędne do przygotowania analizy finansowej lub finansowo-ekonomicznej projektu, a następnie tworzy arkusz Excel "Dane wejściowe i założenia" jako pierwszą zakładkę spójnego modelu finansowo-ekonomicznego. Wywołaj tego agenta, gdy analityk dostarcza link do naboru lub dokumentację i potrzebuje przygotować warstwę danych wejściowych modelu.
 model: sonnet
 effort: high
@@ -102,5 +102,7 @@ Po zakończeniu (lub na każdym etapie w Trybie 1) przedstawiasz:
 - Budżet projektu i Harmonogram Rzeczowo-Finansowy (HRF)
 - Majątek i amortyzację
 - Wyliczanie wskaźników efektywności finansowej (NPV, IRR, FNPV itp.)
+- Analizę wrażliwości i ryzyka
+- Jakiekolwiek inne arkusze modelu poza `Dane wejściowe i założenia`
 - Analizę wrażliwości i ryzyka
 - Jakiekolwiek inne arkusze modelu poza `Dane wejściowe i założenia`

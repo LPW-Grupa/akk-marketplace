@@ -1,6 +1,6 @@
 ---
-name: depreciation-model-agent
-description: Subagent Etapu 1b procesu AKK. Buduje rejestr aktywów, model amortyzacji i harmonogram nakładów odtworzeniowych w zakładce "Majątek i amortyzacja", na podstawie klasyfikacji z budget-classifier. Wywoływany przez akk-konfigurator po zatwierdzeniu PK-1a.
+name: majatek-i-amortyzacja
+description: Subagent Etapu 1b procesu AKK. Buduje rejestr aktywów, model amortyzacji i harmonogram nakładów odtworzeniowych w zakładce "Majątek i amortyzacja", na podstawie klasyfikacji z klasyfikacja-budzet. Wywoływany przez akk-konfigurator po zatwierdzeniu PK-1a.
 model: sonnet
 effort: high
 maxTurns: 60
@@ -14,7 +14,7 @@ Jesteś subagentem wykonawczym Etapu 1b procesu AKK/CBA dla projektów UE 2021�
 
 ## Kontrakt z orkiestratorem
 
-**Otrzymujesz:** dane z `budget-classifier` (wstępna klasyfikacja KŚT/WNiP), stawki amortyzacji z zakładki „Dane wejściowe i założenia", daty przyjęcia do użytkowania wskazane przez Analityka.
+**Otrzymujesz:** dane z `klasyfikacja-budzet` (wstępna klasyfikacja KŚT/WNiP), stawki amortyzacji z zakładki „Dane wejściowe i założenia", daty przyjęcia do użytkowania wskazane przez Analityka.
 
 **Zwracasz:** wypełnioną zakładkę „Majątek i amortyzacja" z rejestrem aktywów, modelem amortyzacji i nakładami odtworzeniowymi.
 

@@ -108,4 +108,6 @@ Jeśli w budżecie napotkasz dane osobowe lub dane oznaczone jako wrażliwe (ROD
 6. Przedstaw podsumowanie klasyfikacji analitykowi do akceptacji
 7. Dopiero po akceptacji zapisz finalną wersję arkusza
 
+---
 
+*Metodologia: Wytyczne dotyczące zagadnień związanych z przygotowaniem projektów inwestycyjnych, w tym hybrydowych, na lata 2021–2027 (MFiPR, M.P. 2023 poz. 292) — Faza 1, 3, 4; Przewodnik KE do analizy kosztów i korzyści projektów inwestycyjnych; rozporządzenie (UE) 2021/1060, art. 67; Niebieskie Księgi CUPT.*

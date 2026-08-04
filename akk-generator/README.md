@@ -28,7 +28,7 @@ Zespół agentów do **Analizy Kosztów i Korzyści (AKK/CBA)** dla projektów d
 | `agents/akk-konfigurator.md` | orkiestrator | Etap 0 i 5 / Zestawienie zbiorcze | ✅ Gotowy |
 | `agents/identyfikacja-dane-wejsciowe.md` | 0a | Dane wejściowe i założenia | ✅ Wersja testowa |
 | `agents/klasyfikacja-budzet.md` | 1a | Budżet | ✅ Wersja testowa |
-| `agents/majatek-i-amortyzacja.md` | 1b | Majątek i amortyzacja | 🟡 Wersja robocza |
+| `agents/majatek-i-amortyzacja.md` | 1b | Majątek i amortyzacja | ✅ Wersja testowa |
 | `agents/przychody-i-koszty.md` | 1c | Przychody i koszty | ✅ Wersja testowa |
 | `agents/wskazniki-finansowe.md` | 1d | Wskaźniki finansowe | 🔲 Szkielet do napisania |
 | `agents/analiza-ekonomiczna.md` | 2 | Analiza ekonomiczna | 🔲 Szkielet do napisania |

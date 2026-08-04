@@ -1,6 +1,6 @@
 {
   "name": "akk-generator",
-  "version": "0.1.0",
+  "version": "0.1.1
   "description": "Zespół agentów do Analizy Kosztów i Korzyści (AKK/CBA) dla projektów inwestycyjnych dofinansowanych z funduszy UE 2021-2027. Orkiestrator akk-konfigurator prowadzi Analityka przez Etapy 0-5, wywołując dedykowanych subagentów piszących kolejne zakładki modelu Excel.",
   "author": {
     "name": "Zespół LPW",

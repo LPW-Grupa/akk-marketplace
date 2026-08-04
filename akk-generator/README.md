@@ -6,15 +6,16 @@ Zespół agentów do **Analizy Kosztów i Korzyści (AKK/CBA)** dla projektów d
 >
 > **Ta paczka jest w trakcie budowy. Służy WYŁĄCZNIE do testowania przepływu i UX — NIE do przygotowania realnych wniosków o dofinansowanie.**
 >
-> **Co testujemy na tym etapie (Etapy 0 → 1b):**
+> **Co testujemy na tym etapie (Etapy 0 → 1c):**
 > - inicjalizację sesji i dialog orkiestratora (Etap 0),
 > - zakładkę „Dane wejściowe i założenia" (Etap 0a, `identyfikacja-dane-wejsciowe`),
 > - klasyfikację budżetu (Etap 1a, `klasyfikacja-budzet`),
-> - model amortyzacji (Etap 1b, `majatek-i-amortyzacja`).
+> - model amortyzacji (Etap 1b, `majatek-i-amortyzacja`),
+> - projekcje przychodów i kosztów operacyjnych (Etap 1c, `przychody-i-koszty`).
 >
-> **Czego NIE testujemy (jeszcze nie zbudowane):** Etapy 1c–4 (przychody/koszty, wskaźniki finansowe, analiza ekonomiczna, wrażliwość/ryzyko, trwałość). Po punkcie kontrolnym **PK-1b proces należy zatrzymać** — kolejne subagenty to szkielety bez metodyki i nie wygenerują poprawnych zakładek.
+> **Czego NIE testujemy (jeszcze nie zbudowane):** Etapy 1d–4 (wskaźniki finansowe, analiza ekonomiczna, wrażliwość/ryzyko, trwałość). Po punkcie kontrolnym **PK-1c proces należy zatrzymać** — kolejne subagenty to szkielety bez metodyki i nie wygenerują poprawnych zakładek.
 >
-> **Czego oczekujemy od testerów:** uwag o czytelności dialogu, punktach kontrolnych, jakości 3 pierwszych zakładek i ergonomii pracy z orkiestratorem. ⚠️ Nie używaj wyników w realnej dokumentacji konkursowej.
+> **Czego oczekujemy od testerów:** uwag o czytelności dialogu, punktach kontrolnych, jakości 4 pierwszych zakładek i ergonomii pracy z orkiestratorem. ⚠️ Nie używaj wyników w realnej dokumentacji konkursowej.
 
 ## Jak to działa
 
@@ -28,7 +29,7 @@ Zespół agentów do **Analizy Kosztów i Korzyści (AKK/CBA)** dla projektów d
 | `agents/identyfikacja-dane-wejsciowe.md` | 0a | Dane wejściowe i założenia | ✅ Gotowy |
 | `agents/klasyfikacja-budzet.md` | 1a | Budżet | 🟡 Wersja robocza |
 | `agents/majatek-i-amortyzacja.md` | 1b | Majątek i amortyzacja | 🟡 Wersja robocza |
-| `agents/przychody-i-koszty.md` | 1c | Przychody i koszty | 🔲 Szkielet do napisania |
+| `agents/przychody-i-koszty.md` | 1c | Przychody i koszty | ✅ Gotowy |
 | `agents/wskazniki-finansowe.md` | 1d | Wskaźniki finansowe | 🔲 Szkielet do napisania |
 | `agents/analiza-ekonomiczna.md` | 2 | Analiza ekonomiczna | 🔲 Szkielet do napisania |
 | `agents/wrazliwosc-i-ryzyko.md` | 3 | Wrażliwość i ryzyko | 🔲 Szkielet do napisania |

@@ -8,10 +8,6 @@
     {
       "name": "akk-generator",
       "source": "./akk-generator"
-    },
-    {
-      "name": "akk-generator-v2",
-      "source": "./akk-generator"
     }
   ]
 }
